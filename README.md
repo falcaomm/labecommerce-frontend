@@ -1,12 +1,11 @@
 # Projeto FrontEnd - labecommerce
 
 <div align="center">
-<img src="https://github.com/falcaomm/labecommerce-frontend/assets/108558119/425352b3-38f2-46f8-a94d-de6706a0663b" alt="Imagem de demonstração do projeto">
+<img src="https://github.com/falcaomm/labecommerce-frontend/assets/108558119/425352b3-38f2-46f8-a94d-de6706a0663b" alt="Imagem de demonstração do projeto" width="70%">
 <p><a href="https://falcaomm-labecommercefront.surge.sh/">Clique aqui</a> para abrir no navegador<p/>
 </div>
 
-
-> Esse projeto de introdução aos fundamentos do React tem como objetivo funcionar como o **front-end de um E-Commerce**.
+> Projeto de introdução aos fundamentos do React tem como objetivo funcionar como o **front-end de um E-Commerce**.
 
 ## 💻 Tecnologias e Recursos Utilizados : 
 * JavaScript;
