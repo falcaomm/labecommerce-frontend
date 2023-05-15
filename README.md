@@ -1,4 +1,4 @@
-# Projeto Front-end - labecommerce
+# Projeto FrontEnd - labecommerce
 
 <div align="center">
 <p><a href="#">Clique aqui</a> para abrir no navegador<p/>
