@@ -28,6 +28,8 @@ function ListaItens(props) {
                             return currentItem.preco -nextItem.preco
                         } else if (order === "dec") {
                             return nextItem.preco - currentItem.preco 
+                        } else {
+                            return 0
                         }
                     })
 

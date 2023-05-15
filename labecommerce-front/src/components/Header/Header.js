@@ -18,7 +18,7 @@ function Header(props) {
                         setNome={setNome}
                     ></Busca>
                     <Icone onClick={() => irPara('carrinho')}> 
-                        {quantidadeItens == 0
+                        {quantidadeItens === 0
                             ? <FaShoppingCart />
                             : <>
                                 <FaShoppingCart />
