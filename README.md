@@ -1,8 +1,8 @@
 # Projeto FrontEnd - labecommerce
 
 <div align="center">
-<p><a href="#">Clique aqui</a> para abrir no navegador<p/>
-<img src="#" alt="GIF de demonstração do projeto">
+<p><a href="https://falcaomm-labecommercefront.surge.sh/">Clique aqui</a> para abrir no navegador<p/>
+<img src="#" alt="Imagem de demonstração do projeto">
 </div>
 
 > Esse projeto de introdução aos fundamentos do React tem como objetivo funcionar como o **front-end de um E-Commerce**.
