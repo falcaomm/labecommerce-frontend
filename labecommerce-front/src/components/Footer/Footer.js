@@ -8,12 +8,12 @@ function Footer() {
         <FooterStyle>
             <DivStyle>
                 <FooterTitle>Projeto Front-End React</FooterTitle>
-                <Text><a target="_blank" href="https://wa.me/5551992183683" rel="noreferrer"><RiWhatsappFill />Contato</a>
+                <Text><a target="_blank" href="https://www.linkedin.com/in/manuela-falc%C3%A3o-06b520256/" rel="noreferrer"><RiWhatsappFill />Contato</a>
                 </Text>
             </DivStyle>
             <DivStyle>
                 <Text>
-                    Developed by <a target="_blank" href="https://github.com/falcaomm/projeto-frontendreact" rel="noreferrer"><GoMarkGithub /> falcaomm</a>
+                    Developed by <a target="_blank" href="https://github.com/falcaomm" rel="noreferrer"><GoMarkGithub /> falcaomm</a>
                 </Text>
             </DivStyle>
 
