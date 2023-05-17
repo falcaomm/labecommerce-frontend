@@ -1,8 +1,8 @@
 # Projeto FrontEnd - labecommerce
 
 <div align="center">
-<img src="https://github.com/falcaomm/labecommerce-frontend/assets/108558119/425352b3-38f2-46f8-a94d-de6706a0663b" alt="Imagem de demonstração do projeto" width="70%">
-<p><a href="https://falcaomm-labecommercefront.surge.sh/">Clique aqui</a> para abrir no navegador<p/>
+<a href="https://falcaomm-labecommercefront.surge.sh/"><img src="https://github.com/falcaomm/labecommerce-frontend/assets/108558119/425352b3-38f2-46f8-a94d-de6706a0663b" alt="Imagem de demonstração do projeto" width="70%"></a>
+<b><p><a href="https://falcaomm-labecommercefront.surge.sh/">Clique aqui</a> para abrir no navegador<p/></b>
 </div>
 
 > Projeto de introdução aos fundamentos do React tem como objetivo funcionar como o **front-end de um E-Commerce**.
@@ -37,3 +37,18 @@
     - [x]  O usuário deve ser capaz de ordenar os itens em ordem crescente ou decrescente;
     - [x]  O usuário deve ser capaz de adicionar  filtros, busca e ordenação simultaneamente;
     - [x]  O usuário deve ser capaz de retornar à visualização sem filtros.
+
+## 🧪 Testando Localmente:
+
+```bash
+# Com o Node.js instalado clone o repositório do projeto
+git clone [URL do repositório]
+
+# Navegue até a pasta do projeto e instale as dependências e 
+cd [nome da pasta do projeto]
+npm install
+
+# Para iniciar a aplicação, execute o script start
+# A aplicação estará disponível na porta padrão 3000.
+npm run start
+```
