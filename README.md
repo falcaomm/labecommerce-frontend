@@ -1,7 +1,7 @@
 # Projeto FrontEnd - labecommerce
 
 <div align="center">
-<a href="https://falcaomm-labecommercefront.surge.sh/"><img src="https://github.com/falcaomm/labecommerce-frontend/assets/108558119/425352b3-38f2-46f8-a94d-de6706a0663b" alt="Imagem de demonstração do projeto" width="70%"></a>
+<img src="https://github.com/falcaomm/labecommerce-frontend/assets/108558119/425352b3-38f2-46f8-a94d-de6706a0663b" alt="Imagem de demonstração do projeto" width="60%">
 <b><p><a href="https://falcaomm-labecommercefront.surge.sh/">Clique aqui</a> para abrir no navegador<p/></b>
 </div>
 
